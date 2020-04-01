@@ -1,4 +1,4 @@
-Updated to v 3.2.5 on 4 September 2019 - vulnerable dependencies fixed.
+Updated to v 3.4.0 on 1 April 2020 to merge substantial upgrades made in CumberlandGroup/node-ews.
 
 # node-ews
 ###### A simple JSON wrapper for the Exchange Web Services (EWS) SOAP API

@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "when": "3.7.8",
     "xml2js": "^0.4.17"
   }

@@ -9,7 +9,7 @@
   "author": "Nicholas Marus",
   "license": "MIT",
   "dependencies": {
-    "httpntlm": "1.7.3",
+    "httpntlm": "1.7.7",
     "soap": "^0.31.0",
     "when": "3.7.8",
     "tmp": "0.1.0",
